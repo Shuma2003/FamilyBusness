@@ -1,0 +1,40 @@
+.country{
+    color: var(--dark-dark, #2D3845);
+
+/* Naming/D */
+font-family: Nunito Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%; /* 30px */
+margin-top: -34px;
+margin-left: 325px;
+}
+.tel{
+    color: var(--main-turquoise, #379BAD);
+
+/* Naming/D */
+font-family: Nunito Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%; /* 30px */
+margin-left: 585px;
+margin-top: -45px;
+}
+.klients{
+    
+/* Naming/D */
+font-family: Nunito Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%; /* 30px */
+background: var(--main-grad, linear-gradient(270deg, #1B558D 0%, #379BAD 100%));
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+margin-left: 828px;
+margin-top: -51px;
+white-space: nowrap;
+}
